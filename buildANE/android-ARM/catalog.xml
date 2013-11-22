@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/five/ane/FiveExtension" mod="1385108935859" signatureChecksum="104050137" >
+        <def id="com.five.ane:FiveExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_90ef8ca7ec6f703f259b4e34dca1cbacde51d3a2b8f0b0e8b3146e38bcf61911_flash_display_Sprite" mod="1385109074531" signatureChecksum="712801459" >
+        <def id="_90ef8ca7ec6f703f259b4e34dca1cbacde51d3a2b8f0b0e8b3146e38bcf61911_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/five/ane/FiveEvents" mod="1385104883671" signatureChecksum="125923280" >
+        <def id="com.five.ane:FiveEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="93c5b9353f9a8aa62697657a58bb1eeab94aaf49eaf14564fd04cb2b8470fa03"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
