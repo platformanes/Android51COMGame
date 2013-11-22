@@ -4,6 +4,7 @@
 51.COM平台android版ANE
 
 * 参照官方DEMO所编写
+* SDK版本的更新可能会引起ANE不适用
 
 ## 编写ANE过程
 
